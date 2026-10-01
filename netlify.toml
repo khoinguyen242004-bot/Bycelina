@@ -1,3 +1,24 @@
 [build]
   publish = "."
   command = "echo 'No build step needed'"
+
+# Force cache headers for product pages
+[[headers]]
+  for = "/tui-satin/*"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/tui-long/*"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/cop-makeup/*"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+[[headers]]
+  for = "/cop-tweed/*"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
