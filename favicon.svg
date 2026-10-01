@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#C4697A"/>
+      <stop offset="100%" stop-color="#8E4F5E"/>
+    </linearGradient>
+  </defs>
+  <!-- left loop -->
+  <path d="M15 15C12 11 8.5 7.5 6 8c-2.5.5-3.2 3.5-1.2 5.2 1.8 1.6 5.5 2.2 10.2 1.8z" fill="url(#g)"/>
+  <!-- right loop -->
+  <path d="M17 15c3-4 6.5-7.5 9-7 2.5.5 3.2 3.5 1.2 5.2-1.8 1.6-5.5 2.2-10.2 1.8z" fill="url(#g)"/>
+  <!-- center knot -->
+  <ellipse cx="16" cy="15" rx="2.2" ry="2.8" fill="#8E4F5E"/>
+  <!-- tails -->
+  <path d="M14.5 17.5L9 26" stroke="#8E4F5E" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+  <path d="M17.5 17.5L23 26" stroke="#8E4F5E" stroke-width="2.2" stroke-linecap="round" fill="none"/>
+</svg>
