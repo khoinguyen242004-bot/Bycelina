@@ -9,4 +9,28 @@
     <xhtml:link rel="alternate" hreflang="vi" href="https://celinacustom.com/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://celinacustom.com/?lang=en"/>
   </url>
+  <url>
+    <loc>https://celinacustom.com/tui-satin/</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://celinacustom.com/tui-long/</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://celinacustom.com/cop-makeup/</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://celinacustom.com/cop-tweed/</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
